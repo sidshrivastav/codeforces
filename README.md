@@ -9,3 +9,4 @@ This repository contains my solutions to various Codeforces problems.
 | 4A | C | https://codeforces.com/problemset/problem/4/A |
 | 71A | C | https://codeforces.com/problemset/problem/71/A |
 | 279B | C | https://codeforces.com/problemset/problem/279/B |
+| 977E | C | https://codeforces.com/problemset/problem/977/E |
